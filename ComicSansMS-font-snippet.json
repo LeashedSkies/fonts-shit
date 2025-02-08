@@ -1,0 +1,17 @@
+{
+  "spec": 1,
+  "name": "Comic Sans MS",
+  "previewText": "Comic Sans MS is a playful and informal font designed for readability and fun.",
+  "main": {
+    "ComicSansMS-Bold": "https://github.com/LeashedSkies/fonts-shit/raw/refs/heads/main/Comic%20Sans%20MS.ttf",
+    "ComicSansMS-BoldItalic": "https://github.com/LeashedSkies/fonts-shit/raw/refs/heads/main/Comic%20Sans%20MS.ttf",
+    "ComicSansMS-ExtraBold": "https://github.com/LeashedSkies/fonts-shit/raw/refs/heads/main/Comic%20Sans%20MS.ttf",
+    "ComicSansMS-ExtraBoldItalic": "https://github.com/LeashedSkies/fonts-shit/raw/refs/heads/main/Comic%20Sans%20MS.ttf",
+    "ComicSansMS-Medium": "https://github.com/LeashedSkies/fonts-shit/raw/refs/heads/main/Comic%20Sans%20MS.ttf",
+    "ComicSansMS-MediumItalic": "https://github.com/LeashedSkies/fonts-shit/raw/refs/heads/main/Comic%20Sans%20MS.ttf",
+    "ComicSansMS-Normal": "https://github.com/LeashedSkies/fonts-shit/raw/refs/heads/main/Comic%20Sans%20MS.ttf",
+    "ComicSansMS-NormalItalic": "https://github.com/LeashedSkies/fonts-shit/raw/refs/heads/main/Comic%20Sans%20MS.ttf",
+    "ComicSansMS-Semibold": "https://github.com/LeashedSkies/fonts-shit/raw/refs/heads/main/Comic%20Sans%20MS.ttf",
+    "ComicSansMS-SemiboldItalic": "https://github.com/LeashedSkies/fonts-shit/raw/refs/heads/main/Comic%20Sans%20MS.ttf"
+  }
+}
